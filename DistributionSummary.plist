@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Express24.ipa</key>
+	<key>certificationflutter.ipa</key>
 	<array>
 		<dict>
 			<key>architectures</key>
@@ -13,9 +13,9 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
+				<string>6252A2B4EDB61D8A35C2F156EA1A51032828C87E</string>
 				<key>dateExpires</key>
-				<string>8/8/21</string>
+				<string>4/26/23</string>
 				<key>type</key>
 				<string>Apple Distribution</string>
 			</dict>
@@ -30,20 +30,20 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
+						<string>6252A2B4EDB61D8A35C2F156EA1A51032828C87E</string>
 						<key>dateExpires</key>
-						<string>8/8/21</string>
+						<string>4/26/23</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>AKMaskField.framework</string>
+					<string>App.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>CB9M6WF68Y</string>
+						<string>DL7G7MWH7K</string>
 						<key>name</key>
-						<string>Expressbank OJSC</string>
+						<string>Zaur Karimov</string>
 					</dict>
 				</dict>
 				<dict>
@@ -55,20 +55,20 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
+						<string>6252A2B4EDB61D8A35C2F156EA1A51032828C87E</string>
 						<key>dateExpires</key>
-						<string>8/8/21</string>
+						<string>4/26/23</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>Alamofire.framework</string>
+					<string>Flutter.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>CB9M6WF68Y</string>
+						<string>DL7G7MWH7K</string>
 						<key>name</key>
-						<string>Expressbank OJSC</string>
+						<string>Zaur Karimov</string>
 					</dict>
 				</dict>
 				<dict>
@@ -80,20 +80,20 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
+						<string>6252A2B4EDB61D8A35C2F156EA1A51032828C87E</string>
 						<key>dateExpires</key>
-						<string>8/8/21</string>
+						<string>4/26/23</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>BiometricAuthentication.framework</string>
+					<string>Reachability.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>CB9M6WF68Y</string>
+						<string>DL7G7MWH7K</string>
 						<key>name</key>
-						<string>Expressbank OJSC</string>
+						<string>Zaur Karimov</string>
 					</dict>
 				</dict>
 				<dict>
@@ -105,20 +105,20 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
+						<string>6252A2B4EDB61D8A35C2F156EA1A51032828C87E</string>
 						<key>dateExpires</key>
-						<string>8/8/21</string>
+						<string>4/26/23</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>CenteredCollectionView.framework</string>
+					<string>connectivity.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>CB9M6WF68Y</string>
+						<string>DL7G7MWH7K</string>
 						<key>name</key>
-						<string>Expressbank OJSC</string>
+						<string>Zaur Karimov</string>
 					</dict>
 				</dict>
 				<dict>
@@ -130,20 +130,20 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
+						<string>6252A2B4EDB61D8A35C2F156EA1A51032828C87E</string>
 						<key>dateExpires</key>
-						<string>8/8/21</string>
+						<string>4/26/23</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>FBLPromises.framework</string>
+					<string>device_info.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>CB9M6WF68Y</string>
+						<string>DL7G7MWH7K</string>
 						<key>name</key>
-						<string>Expressbank OJSC</string>
+						<string>Zaur Karimov</string>
 					</dict>
 				</dict>
 				<dict>
@@ -155,20 +155,20 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
+						<string>6252A2B4EDB61D8A35C2F156EA1A51032828C87E</string>
 						<key>dateExpires</key>
-						<string>8/8/21</string>
+						<string>4/26/23</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>FBSDKCoreKit.framework</string>
+					<string>flutter_secure_storage.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>CB9M6WF68Y</string>
+						<string>DL7G7MWH7K</string>
 						<key>name</key>
-						<string>Expressbank OJSC</string>
+						<string>Zaur Karimov</string>
 					</dict>
 				</dict>
 				<dict>
@@ -180,20 +180,20 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
+						<string>6252A2B4EDB61D8A35C2F156EA1A51032828C87E</string>
 						<key>dateExpires</key>
-						<string>8/8/21</string>
+						<string>4/26/23</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>FacebookCore.framework</string>
+					<string>flutter_share.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>CB9M6WF68Y</string>
+						<string>DL7G7MWH7K</string>
 						<key>name</key>
-						<string>Expressbank OJSC</string>
+						<string>Zaur Karimov</string>
 					</dict>
 				</dict>
 				<dict>
@@ -205,20 +205,20 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
+						<string>6252A2B4EDB61D8A35C2F156EA1A51032828C87E</string>
 						<key>dateExpires</key>
-						<string>8/8/21</string>
+						<string>4/26/23</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>GTMSessionFetcher.framework</string>
+					<string>path_provider.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>CB9M6WF68Y</string>
+						<string>DL7G7MWH7K</string>
 						<key>name</key>
-						<string>Expressbank OJSC</string>
+						<string>Zaur Karimov</string>
 					</dict>
 				</dict>
 				<dict>
@@ -230,20 +230,20 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
+						<string>6252A2B4EDB61D8A35C2F156EA1A51032828C87E</string>
 						<key>dateExpires</key>
-						<string>8/8/21</string>
+						<string>4/26/23</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>GoogleToolboxForMac.framework</string>
+					<string>platform_device_id.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>CB9M6WF68Y</string>
+						<string>DL7G7MWH7K</string>
 						<key>name</key>
-						<string>Expressbank OJSC</string>
+						<string>Zaur Karimov</string>
 					</dict>
 				</dict>
 				<dict>
@@ -255,20 +255,20 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
+						<string>6252A2B4EDB61D8A35C2F156EA1A51032828C87E</string>
 						<key>dateExpires</key>
-						<string>8/8/21</string>
+						<string>4/26/23</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>GoogleUtilities.framework</string>
+					<string>shared_preferences_ios.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>CB9M6WF68Y</string>
+						<string>DL7G7MWH7K</string>
 						<key>name</key>
-						<string>Expressbank OJSC</string>
+						<string>Zaur Karimov</string>
 					</dict>
 				</dict>
 				<dict>
@@ -280,20 +280,20 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
+						<string>6252A2B4EDB61D8A35C2F156EA1A51032828C87E</string>
 						<key>dateExpires</key>
-						<string>8/8/21</string>
+						<string>4/26/23</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>L10n_swift.framework</string>
+					<string>sqlite3.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>CB9M6WF68Y</string>
+						<string>DL7G7MWH7K</string>
 						<key>name</key>
-						<string>Expressbank OJSC</string>
+						<string>Zaur Karimov</string>
 					</dict>
 				</dict>
 				<dict>
@@ -305,274 +305,47 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
+						<string>6252A2B4EDB61D8A35C2F156EA1A51032828C87E</string>
 						<key>dateExpires</key>
-						<string>8/8/21</string>
+						<string>4/26/23</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>Moya.framework</string>
+					<string>sqlite3_flutter_libs.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>CB9M6WF68Y</string>
+						<string>DL7G7MWH7K</string>
 						<key>name</key>
-						<string>Expressbank OJSC</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>armv7</string>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
-						<key>dateExpires</key>
-						<string>8/8/21</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>PayCardsRecognizer.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>CB9M6WF68Y</string>
-						<key>name</key>
-						<string>Expressbank OJSC</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>armv7</string>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
-						<key>dateExpires</key>
-						<string>8/8/21</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>Protobuf.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>CB9M6WF68Y</string>
-						<key>name</key>
-						<string>Expressbank OJSC</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>armv7</string>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
-						<key>dateExpires</key>
-						<string>8/8/21</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>Result.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>CB9M6WF68Y</string>
-						<key>name</key>
-						<string>Expressbank OJSC</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>armv7</string>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
-						<key>dateExpires</key>
-						<string>8/8/21</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>Rswift.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>CB9M6WF68Y</string>
-						<key>name</key>
-						<string>Expressbank OJSC</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>armv7</string>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
-						<key>dateExpires</key>
-						<string>8/8/21</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>SDWebImage.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>CB9M6WF68Y</string>
-						<key>name</key>
-						<string>Expressbank OJSC</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>armv7</string>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
-						<key>dateExpires</key>
-						<string>8/8/21</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>SwiftReorder.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>CB9M6WF68Y</string>
-						<key>name</key>
-						<string>Expressbank OJSC</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>armv7</string>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
-						<key>dateExpires</key>
-						<string>8/8/21</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>SwipeCellKit.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>CB9M6WF68Y</string>
-						<key>name</key>
-						<string>Expressbank OJSC</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>armv7</string>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
-						<key>dateExpires</key>
-						<string>8/8/21</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>Toast_Swift.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>CB9M6WF68Y</string>
-						<key>name</key>
-						<string>Expressbank OJSC</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>armv7</string>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>20A1EF98057126D351DC929D0EEA79DBC4F6E869</string>
-						<key>dateExpires</key>
-						<string>8/8/21</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>nanopb.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>CB9M6WF68Y</string>
-						<key>name</key>
-						<string>Expressbank OJSC</string>
+						<string>Zaur Karimov</string>
 					</dict>
 				</dict>
 			</array>
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>CB9M6WF68Y.az.expressbank.e24mobile</string>
-				<key>aps-environment</key>
-				<string>production</string>
+				<string>DL7G7MWH7K.com.certification.certificationflutter</string>
 				<key>com.apple.developer.team-identifier</key>
-				<string>CB9M6WF68Y</string>
+				<string>DL7G7MWH7K</string>
 				<key>get-task-allow</key>
 				<false/>
 			</dict>
 			<key>name</key>
-			<string>Express24.app</string>
+			<string>Runner.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>5370ea18-dfd7-4bcd-bcf4-aae544c7f729</string>
+				<string>babe572e-c3f2-4cb8-abd8-8ed073e1ca6f</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: az.expressbank.e24mobile</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.certification.certificationflutter</string>
 			</dict>
 			<key>team</key>
 			<dict>
 				<key>id</key>
-				<string>CB9M6WF68Y</string>
+				<string>DL7G7MWH7K</string>
 				<key>name</key>
-				<string>Expressbank OJSC</string>
+				<string>Zaur Karimov</string>
 			</dict>
 		</dict>
 	</array>
